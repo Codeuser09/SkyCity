@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:coal_ore"
+        },
+        {
+            "item": "minecraft:coal_ore"
+        },
+        {
+            "item": "minecraft:coal_ore"
+        },
+        {
+            "item": "minecraft:coal_ore"
+        },
+        {
+            "item": "minecraft:coal_ore"
+        },
+        {
+            "item": "minecraft:coal_ore"
+        },
+        {
+            "item": "minecraft:coal_ore"
+        },
+        {
+            "item": "minecraft:coal_ore"
+        },
+        {
+            "item": "minecraft:coal_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:coal_block",
+        "count": 1
+    }
+}

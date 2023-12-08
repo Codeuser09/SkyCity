@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:sea_lantern"
+        },
+        {
+            "item": "minecraft:sea_lantern"
+        },
+        {
+            "item": "minecraft:sea_lantern"
+        },
+        {
+            "item": "minecraft:sea_lantern"
+        },
+        {
+            "item": "minecraft:sea_lantern"
+        },
+        {
+            "item": "minecraft:sea_lantern"
+        },
+        {
+            "item": "minecraft:sea_lantern"
+        },
+        {
+            "item": "minecraft:sea_lantern"
+        },
+        {
+            "item": "minecraft:sea_lantern"
+        }
+    ],
+    "result": {
+        "item": "minecraft:coal",
+        "count": 1
+    }
+}

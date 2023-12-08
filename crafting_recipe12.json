@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        }
+    ],
+    "result": {
+        "item": "minecraft:blue_wool",
+        "count": 1
+    }
+}

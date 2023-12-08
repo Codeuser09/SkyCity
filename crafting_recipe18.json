@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "minecraft:blue_glazed_terracotta"
+        }
+    ],
+    "result": {
+        "item": "minecraft:sea_lantern",
+        "count": 1
+    }
+}

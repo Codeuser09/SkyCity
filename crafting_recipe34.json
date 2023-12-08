@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:lapis_ore"
+        },
+        {
+            "item": "minecraft:lapis_ore"
+        },
+        {
+            "item": "minecraft:lapis_ore"
+        },
+        {
+            "item": "minecraft:lapis_ore"
+        },
+        {
+            "item": "minecraft:lapis_ore"
+        },
+        {
+            "item": "minecraft:lapis_ore"
+        },
+        {
+            "item": "minecraft:lapis_ore"
+        },
+        {
+            "item": "minecraft:lapis_ore"
+        },
+        {
+            "item": "minecraft:lapis_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:lapis_block",
+        "count": 1
+    }
+}

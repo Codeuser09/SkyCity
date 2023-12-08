@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "minecraft:chiseled_sandstone"
+        }
+    ],
+    "result": {
+        "item": "minecraft:white_wool",
+        "count": 1
+    }
+}

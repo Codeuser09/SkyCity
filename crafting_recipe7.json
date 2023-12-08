@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:sandstone"
+        },
+        {
+            "item": "minecraft:sandstone"
+        },
+        {
+            "item": "minecraft:sandstone"
+        },
+        {
+            "item": "minecraft:sandstone"
+        },
+        {
+            "item": "minecraft:sandstone"
+        },
+        {
+            "item": "minecraft:sandstone"
+        },
+        {
+            "item": "minecraft:sandstone"
+        },
+        {
+            "item": "minecraft:sandstone"
+        },
+        {
+            "item": "minecraft:sandstone"
+        }
+    ],
+    "result": {
+        "item": "minecraft:smooth_sandstone",
+        "count": 1
+    }
+}
